@@ -1,0 +1,14 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "lite-server",
+    "ts:watch": "tsc --watch --noEmitOnError *.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
